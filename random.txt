@@ -1,0 +1,7 @@
+package.json sluzi za dependencie i libraries
+
+tsconfig config sluzi za typescript compiler opcije i način kodiranja
+
+angular.json za environmente, theme, neke posebne konfiguracije vezane uz angular
+
+assets za ikone i typografiju npr
